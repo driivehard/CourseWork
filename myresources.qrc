@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/root">
+        <file>res/close2.png</file>
+        <file>res/closewindow.png</file>
+        <file>res/copy.png</file>
+        <file>res/excel.png</file>
+        <file>res/excellerator.png</file>
+        <file>res/exit.png</file>
+        <file>res/open.png</file>
+        <file>res/save.png</file>
+    </qresource>
+    <qresource prefix="/json">
+        <file>settings.json</file>
+    </qresource>
+</RCC>
